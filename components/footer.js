@@ -61,7 +61,7 @@ const Footer = () => {
           <div className="col-lg-12 col-sm-12 text-center">
             <div className="copyright">
               © copyright {new Date().getFullYear()} by{" "}
-              <a href="#">Layerdrops.com</a>
+              <a href="#">AIIDL Technologies Pvt. Ltd.</a>
             </div>
           </div>
         </div>

@@ -77,7 +77,7 @@ import sliderOne02 from "@/images/slider/1_2.jpg";
 export const SliderOneData = [
   {
     image: sliderOne01,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
+    subTitle: "WELCOME TO AIIDL TECHNOLOGIES ",
     title: "SMART WEB \n DESIGN AGENCY.",
     button: {
       label: "DISCOVER MORE",
@@ -86,7 +86,7 @@ export const SliderOneData = [
   },
   {
     image: sliderOne02,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
+    subTitle: "WELCOME TO AIIDL TECHNOLOGIES",
     title: "SMART WEB \n DESIGN AGENCY.",
     button: {
       label: "DISCOVER MORE",
@@ -102,7 +102,7 @@ import sliderTwo03 from "@/images/slider/carosel3.jpg";
 export const SliderTwoData = [
   {
     image: sliderTwo01,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
+    subTitle: "WELCOME TO AIIDL TECHNOLOGIES",
     title: "DIGITAL\nMARKETING\nAGENCY.",
     button: {
       label: "DISCOVER MORE",
@@ -111,7 +111,7 @@ export const SliderTwoData = [
   },
   {
     image: sliderTwo02,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
+    subTitle: "WELCOME TO AIIDL TECHNOLOGIES",
     title: "DIGITAL\nMARKETING\nAGENCY.",
     button: {
       label: "DISCOVER MORE",
@@ -120,7 +120,7 @@ export const SliderTwoData = [
   },
   {
     image: sliderTwo03,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
+    subTitle: "WELCOME TO AIIDL TECHNOLOGIES",
     title: "DIGITAL\nMARKETING\nAGENCY.",
     button: {
       label: "DISCOVER MORE",
@@ -135,7 +135,7 @@ import sliderThree02 from "@/images/slider/3_2.jpg";
 export const SliderThreeData = [
   {
     image: sliderThree01,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
+    subTitle: "WELCOME TO AIIDL TECHNOLOGIES",
     title: "SMART WEB\n DESIGN AGENCY.",
     button: {
       label: "DISCOVER MORE",
@@ -144,7 +144,7 @@ export const SliderThreeData = [
   },
   {
     image: sliderThree02,
-    subTitle: "WELCOME TO MEIPALY AGENCY",
+    subTitle: "WELCOME TO AIIDL TECHNOLOGIES",
     title: "SMART WEB\n DESIGN AGENCY.",
     button: {
       label: "DISCOVER MORE",
@@ -162,30 +162,30 @@ export const ContactInfosBlock = {
 
 export const ContactInfosList = [
   {
-    title: "austin",
+    title: "Noida",
     infos: [
       {
-        name: "22 Texas West Hills"
+        name: "Mukhiya Complex, 4th Floor Sector 35, Uttarpradesh 201301"
       },
       {
         name: "needhelp@meipaly.com"
       },
       {
-        name: "666 888 000"
+        name: "+91-8377963214"
       }
     ]
   },
   {
-    title: "boston",
+    title: "USA",
     infos: [
       {
-        name: "5 Federal Street Boston"
+        name: "2123 Bluewillow dr Houston Texas 77042 USA"
       },
       {
         name: "needhelp@meipaly.com"
       },
       {
-        name: "666 888 000"
+        name: "+1(843)888-4894"
       }
     ]
   },
@@ -486,7 +486,7 @@ export const ServicePostData = [
 ];
 
 export const ServiceHomeTwoData = {
-  subTitle: "welcome to smart meipaly web agency",
+  subTitle: "welcome to AIIDL TECHNOLOGIES",
   title: "We design digital products that \n help grow businesses.",
   text:
     "We are committed to providing our customers with exceptional service while\n offering our employees the best training."
@@ -786,9 +786,9 @@ export const SubscribeFormData = {
   }
 };
 
-import testimonial01 from "@/images/home_1/t1.jpg";
-import testimonial02 from "@/images/home_1/t2.jpg";
-import testimonial03 from "@/images/home_1/t3.jpg";
+import testimonial01 from "@/images/home_1/test-3.jpg";
+import testimonial02 from "@/images/home_1/test-3.jpg";
+import testimonial03 from "@/images/home_1/test-3.jpg";
 
 export const TestimonialsOneData = {
   sectionContent: {
@@ -871,9 +871,9 @@ export const TestimonialsOneData = {
   ]
 };
 
-import featureTab01 from "@/images/home_1/c1.jpg";
-import featureTab02 from "@/images/home_1/c2.jpg";
-import featureTab03 from "@/images/home_1/c3.jpg";
+import featureTab01 from "@/images/home_1/latest-1.jpg";
+import featureTab02 from "@/images/home_1/support-1.jpg";
+import featureTab03 from "@/images/home_1/demo-1.jpg";
 
 export const FeatureTabData = {
   sectionContent: {

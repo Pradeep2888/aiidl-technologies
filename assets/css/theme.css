@@ -81,7 +81,7 @@ License URI:
 }
 .mainmenu ul li a {
   display: block;
-  color: #000000;
+  color: #003466;
   font-size: 16px;
   line-height: 0.8;
   text-transform: uppercase;
@@ -109,7 +109,7 @@ License URI:
   width: 100%;
 }
 .mainmenu ul ul.sub-menu {
-  background: #000;
+  background: #fff;
   width: 200px;
   z-index: 9;
   text-align: center;
@@ -167,7 +167,7 @@ License URI:
 }
 .navigator a {
   display: inline-block;
-  color: #fff;
+  color: #003466;
   line-height: 0.8;
   font-size: 25px;
   margin: 0;
@@ -199,7 +199,7 @@ License URI:
   color: #e62b4a;
 }
 .fixedHeader {
-  background: #000;
+  background: #fff;
   left: 0;
   position: fixed;
   right: 0;
@@ -388,7 +388,7 @@ License URI:
   transform: rotateX(180deg);
 }
 .back {
-  background: #e62b4a;
+  background: #fe7702;
   -webkit-transform: rotateY(-180deg);
   -moz-transform: rotateY(-180deg);
   -o-transform: rotateY(-180deg);
@@ -396,7 +396,7 @@ License URI:
   transform: rotateY(-180deg);
   position: relative;
   padding: 48px 45px 45px;
-  border: 2px solid #e62b4a;
+  border: 2px solid #fe7702;
   width: 100%;
 }
 .icon_box_1:hover .front,
@@ -510,7 +510,7 @@ License URI:
   height: 115px;
   border-radius: 0;
   position: relative;
-  background: #e62b4a;
+  background: #fe7702;
   color: #fff;
   font-size: 30px;
   line-height: 0.8;
@@ -598,7 +598,7 @@ License URI:
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(230, 43, 74, 0.8);
+  background: #fe7702;
   overflow: hidden;
   width: 0;
   height: 100%;
@@ -719,7 +719,7 @@ License URI:
 .abci_content h2 {
   font-size: 50px;
   letter-spacing: 2px;
-  color: #000000;
+  color: #003466;
   line-height: 63px;
   text-transform: uppercase;
   margin: 0 0 43px;
@@ -787,7 +787,7 @@ License URI:
   position: absolute;
   bottom: 0;
   right: 0;
-  background: rgba(230, 43, 74, 0.7);
+  background: #fe7702;
   overflow: hidden;
   width: 0;
   height: 100%;
@@ -876,7 +876,7 @@ License URI:
   line-height: 0.8;
   letter-spacing: 0.8px;
   text-transform: uppercase;
-  color: #000;
+  color: #003466;
   display: block;
   margin: 0 0 3px;
   -webkit-transition: all 0.4s ease-out;
@@ -885,7 +885,7 @@ License URI:
 .detail_TM h6 {
   font-size: 12px;
   letter-spacing: 1.2px;
-  color: #818181;
+  color: #003466ad;
   text-transform: uppercase;
   position: relative;
   line-height: 0.8;
@@ -895,7 +895,7 @@ License URI:
   width: 0;
   height: 1px;
   content: "";
-  background: #818181;
+  background: #fe7702;
   position: absolute;
   left: 0;
   right: 0;
@@ -907,7 +907,7 @@ License URI:
   transition: all 0.4s ease-out;
 }
 .singleTM:hover .detail_TM h5 {
-  color: #e62b4a;
+  color: #fe7702;
 }
 .singleTM:hover .detail_TM h6:after {
   width: 100%;
@@ -960,7 +960,7 @@ License URI:
 #team-carousel-pagination .swiper-pagination-bullet:hover,
 .slick-dots li.slick-active,
 .slick-dots li:hover {
-  background: #000;
+  background: #003466;
 }
 
 /*----------------------------------------------------
@@ -1010,7 +1010,7 @@ License URI:
   bottom: 0;
   margin: auto 0;
   content: "";
-  background: #e62b4a;
+  background: #fe7702;
   visibility: hidden;
   opacity: 0;
   transition: all ease 500ms;
@@ -1055,7 +1055,7 @@ License URI:
 .client_slider .swiper-pagination-bullet:hover,
 .client_slider .owl-controls .owl-dots .owl-dot.active span,
 .client_slider .owl-controls .owl-dots .owl-dot:hover span {
-  background: #000000;
+  background: #003466;
 }
 
 .client_slider .swiper-pagination {
@@ -1086,7 +1086,7 @@ License URI:
   bottom: 0;
   margin: auto 0;
   content: "";
-  background: #e62b4a;
+  background: #fe7702;
   visibility: hidden;
   opacity: 0;
   transition: all ease 500ms;
@@ -1105,7 +1105,7 @@ License URI:
 }
 .singleClient_2 h3 {
   text-transform: uppercase;
-  color: #000;
+  color: #003466;
   font-size: 20px;
   line-height: 36px;
   letter-spacing: 0.8px;
@@ -1131,7 +1131,7 @@ License URI:
 .testimonial_content .testi_icon {
   width: 115px;
   height: 115px;
-  background: #e62b4a;
+  background: #fe7702;
   text-align: center;
   display: inline-block;
   font-size: 64px;
@@ -1145,15 +1145,15 @@ License URI:
   line-height: 62px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #fff;
+  color: #003466;
   margin: 0 0 44px;
 }
 .testimonial_content h2 span {
-  color: #e62b4a;
+  color: #fe7702;
 }
 .testimonial_content p {
   font-size: 20px;
-  color: #fff;
+  color: #003466ad;
   letter-spacing: 0.8px;
   white-space: pre-line;
   margin: 0;
@@ -1195,7 +1195,7 @@ License URI:
   display: block;
   height: 31px;
   width: 65px;
-  background: #000;
+  background: #003466;
   color: #fff;
   padding: 11px 0;
   text-align: center;
@@ -1204,21 +1204,21 @@ License URI:
 }
 .lbi_details .lbid_date:hover {
   color: #fff;
-  background: #e62b4a;
+  background: #fe7702;
 }
 .lbi_details h2 {
   font-size: 26px;
   line-height: 32px;
   letter-spacing: 1.04px;
   text-transform: uppercase;
-  color: #000;
+  color: #003466;
   margin: 0 0 13px;
 }
 .lbi_details h2 a {
-  color: #000;
+  color: #003466;
 }
 .lbi_details h2 a:hover {
-  color: #e62b4a;
+  color: #fe7702;
 }
 .lbi_details .learnM {
   display: inline-block;
@@ -1226,14 +1226,14 @@ License URI:
   line-height: 0.8;
   letter-spacing: 1.12px;
   text-transform: uppercase;
-  color: #000;
+  color: #003466ad;
   position: relative;
 }
 .lbi_details .learnM:after {
   width: 0;
   height: 1px;
   content: "";
-  background: #e62b4a;
+  background: #fe7702;
   position: absolute;
   left: 0;
   right: 0;
@@ -1246,7 +1246,7 @@ License URI:
   width: 100%;
 }
 .lbi_details .learnM:hover {
-  color: #e62b4a;
+  color: #fe7702;
 }
 
 /*----------------------------------------------------
@@ -1270,7 +1270,7 @@ License URI:
 .ready_2 .common_btn {
   padding: 28px 42.5px;
   background: #fff;
-  color: #000;
+  color: #003466;
 }
 
 /*----------------------------------------------------
@@ -1442,7 +1442,7 @@ License URI:
   margin: 0;
 }
 .icon_box_2 a:hover {
-  color: #e62b4a;
+  color: #fe7702;
 }
 .icon_box_2:hover {
   -webkit-box-shadow: 0px 10px 35px 0px rgba(0, 0, 0, 0.05);
@@ -1481,7 +1481,7 @@ License URI:
   content: "";
   width: 2px;
   height: 95px;
-  background: #000;
+  background: #003466;
 }
 .singleFeature:last-child:after {
   display: none;
@@ -1496,13 +1496,13 @@ License URI:
   width: 50px;
   height: 48px;
   line-height: 0.8;
-  background: #000;
+  background: #003466;
 }
 .singleFeature h3 {
   font-size: 18px;
   line-height: 0.8;
   letter-spacing: 0.72px;
-  color: #000;
+  color: #003466;
   text-transform: uppercase;
   margin: 0 0 29px;
 }
@@ -1513,7 +1513,7 @@ License URI:
   position: relative;
 }
 .img_details {
-  background: #e62b4a;
+  background: #003466;
   display: inline-block;
   padding: 43px 103px 45px 50px;
   position: absolute;
@@ -1582,7 +1582,7 @@ License URI:
   right: 0;
   bottom: 0;
   content: "“";
-  background: #e62b4a;
+  background: #fe7702;
   font-size: 30px;
   line-height: 0.8;
   padding: 11px 0;
@@ -1688,7 +1688,7 @@ License URI:
   display: block;
   font-size: 20px;
   line-height: 0.8;
-  color: #000000;
+  color: #003466;
   letter-spacing: 0.8px;
   background: #f4f4f4;
   padding: 49px 0;
@@ -1698,7 +1698,7 @@ License URI:
 }
 .chooseUs_title li:hover a,
 .chooseUs_title li.active a {
-  background: #000;
+  background: #003466;
   color: #fff;
 }
 .chose_img {
@@ -1726,7 +1726,7 @@ License URI:
 }
 .wh_choose ul li i {
   font-size: 14px;
-  color: #e62b4a;
+  color: #fe7702;
   line-height: 32px;
   margin-right: 15px;
 }
@@ -1768,7 +1768,7 @@ License URI:
   top: 0;
   left: 0;
   margin: auto;
-  background: rgba(230, 43, 74, 0.7);
+  background: #fe7702;
   overflow: hidden;
   width: 0;
   height: 100%;
@@ -1787,7 +1787,7 @@ License URI:
 
 .single_wedo .overlay_wedo a {
   height: 68px;
-  color: #000000;
+  color: #003466;
   line-height: 0.8;
   font-size: 18px;
   letter-spacing: 0.72px;
@@ -1807,7 +1807,7 @@ License URI:
 }
 .single_wedo .overlay_wedo a:hover {
   color: #fff;
-  background: #000;
+  background: #003466;
 }
 
 /*----------------------------------------------------
@@ -1835,18 +1835,18 @@ License URI:
   font-size: 24px;
   color: #fff;
   letter-spacing: 0.96px;
-  background: #e62b4a;
+  background: #fe7702;
   padding: 61px 0;
 }
 .btn_link a:hover {
-  background: #000;
+  background: #003466;
   color: #fff;
 }
 .btn_link.bg_black a {
-  background: #000;
+  background: #003466;
 }
 .btn_link.bg_black a:hover {
-  background: #e62b4a;
+  background: #fe7702;
 }
 
 /*----------------------------------------------------
@@ -1893,7 +1893,7 @@ License URI:
   position: absolute;
   right: 60px;
   top: 60px;
-  border: 10px solid #e62b4a;
+  border: 10px solid #fe7702;
   height: 464px;
   width: 530px;
   content: "";
@@ -1924,14 +1924,14 @@ License URI:
   font-size: 12px;
   letter-spacing: 1.2px;
   line-height: 0.8;
-  color: #000;
+  color: #003466ad;
   margin: 0 0 3px;
 }
 .compay_date h2 {
   font-size: 110px;
   line-height: 0.9;
   letter-spacing: 4.4px;
-  color: #000;
+  color: #003466;
   margin: 0;
 }
 .subscribe {
@@ -1954,7 +1954,7 @@ License URI:
   z-index: 10;
 }
 .videoWrap_2 .play_video h2 {
-  color: #fff;
+  color: #003466;
 }
 .videoWrap_2 img {
   width: 100%;
@@ -1986,7 +1986,7 @@ License URI:
 }
 .serviceArea h2 {
   text-transform: uppercase;
-  color: #222232;
+  color: #003466;
   line-height: 0.8;
   font-size: 50px;
   letter-spacing: 2px;
@@ -1999,7 +1999,7 @@ License URI:
   line-height: 0.8;
   text-transform: uppercase;
   letter-spacing: 1.2px;
-  color: #000000;
+  color: #003466;
   font-size: 30px;
   margin-bottom: 50px;
 }
@@ -2020,7 +2020,7 @@ License URI:
   font-size: 16px;
 }
 .serviceArea ul li i {
-  color: #e62b4a;
+  color: #fe7702;
   margin-right: 10px;
   line-height: 36px;
 }
@@ -2160,7 +2160,7 @@ License URI:
 .singlePortfoio_content h3 {
   font-size: 30px;
   line-height: 0.8;
-  color: #000;
+  color: #003466;
   text-transform: uppercase;
   letter-spacing: 1.04px;
   margin: 0 0 39px;
@@ -2168,7 +2168,7 @@ License URI:
 .singlePortfoio_content h4 {
   font-size: 18px;
   line-height: 0.8;
-  color: #000;
+  color: #003466;
   text-transform: uppercase;
   letter-spacing: 0.72px;
   margin: 0 0 9px;
@@ -2179,10 +2179,10 @@ License URI:
 }
 .singlePortfoio_content p a {
   display: inline-block;
-  color: #818181;
+  color: #003466ad;
 }
 .singlePortfoio_content p a:hover {
-  color: #e62b4a;
+  color: #fe7702;
 }
 .singlePortfoio_content ul {
   margin: 17px 0 0;
@@ -2195,7 +2195,7 @@ License URI:
   margin: 0 0 17px;
 }
 .singlePortfoio_content ul li a {
-  color: #818181;
+  color: #003466ad;
   font-size: 12px;
   text-transform: uppercase;
   line-height: 0.8;
@@ -2207,7 +2207,7 @@ License URI:
   width: 0;
   height: 1px;
   content: "";
-  background: #e62b4a;
+  background: #fe7702;
   position: absolute;
   left: 0;
   right: 0;
@@ -2217,7 +2217,7 @@ License URI:
   transition: all 0.4s ease-out;
 }
 .singlePortfoio_content ul li a:hover {
-  color: #e62b4a;
+  color: #fe7702;
 }
 .singlePortfoio_content ul li a:hover:after {
   width: 100%;
@@ -2262,7 +2262,7 @@ License URI:
   bottom: 0;
   margin: auto 0;
   content: "";
-  background: #e62b4a;
+  background: #fe7702;
   visibility: hidden;
   opacity: 0;
   -webkit-transition: all 0.4s ease-out;
@@ -2281,7 +2281,7 @@ License URI:
 .meipaly_paginations a:hover,
 .meipaly_paginations span.current {
   color: #fff;
-  background: #000;
+  background: #003466;
 }
 .single_blog {
   position: relative;
@@ -2309,7 +2309,7 @@ License URI:
   display: block;
   height: 31px;
   width: 65px;
-  background: #e62b4a;
+  background: #fe7702;
   color: #ffffff;
   padding: 11px 0;
   text-align: center;
@@ -2319,7 +2319,7 @@ License URI:
 .blog_headings h2 {
   text-transform: uppercase;
   font-size: 40px;
-  color: #000000;
+  color: #003466;
   line-height: 40px;
   letter-spacing: 1.6px;
   margin: 0 0 7px;
@@ -2328,13 +2328,13 @@ License URI:
   font-size: 12px;
   line-height: 30px;
   letter-spacing: 1.2px;
-  color: #818181;
+  color: #003466ad;
   text-transform: uppercase;
   margin: 0;
 }
 .blog_headings .blog_metas a {
   display: inline-block;
-  color: #818181;
+  color: #003466ad;
   margin: 0 10px;
 }
 .blog_headings .blog_metas a:first-of-type {
@@ -2358,19 +2358,19 @@ License URI:
 .blog_tagitems span {
   font-size: 20px;
   line-height: 30px;
-  color: #000000;
+  color: #003466;
   display: inline-block;
   letter-spacing: 0.8px;
   margin-right: 3px;
 }
 .blog_tagitems a {
   display: inline-block;
-  color: #818181;
+  color: #003466ad;
   line-height: 30px;
   font-size: 16px;
 }
 .blog_tagitems a:hover {
-  color: #000;
+  color: #003466;
 }
 .post_author {
   position: relative;
@@ -2395,17 +2395,17 @@ License URI:
   margin: 0 0 39px;
 }
 .post_author h3 a {
-  color: #000;
+  color: #003466;
 }
 .post_author h3 a:hover {
-  color: #e62b4a;
+  color: #fe7702;
 }
 .post_author p {
   line-height: 30px;
   margin: 0 0 16px;
 }
 .post_author > a {
-  color: #e62b4a;
+  color: #fe7702;
   line-height: 0.8;
   display: inline-block;
   position: relative;
@@ -2417,7 +2417,7 @@ License URI:
   width: 100%;
   height: 1px;
   content: "";
-  background: #e62b4a;
+  background: #fe7702;
   position: absolute;
   left: 0;
   right: 0;
@@ -2427,10 +2427,10 @@ License URI:
   transition: all 0.4s ease-out;
 }
 .post_author > a:hover {
-  color: #000;
+  color: #003466
 }
 .post_author > a:hover:after {
-  background: #000;
+  background: #003466;
 }
 .comment_area {
   position: relative;
@@ -2439,7 +2439,7 @@ License URI:
   font-size: 30px;
   line-height: 0.8;
   letter-spacing: 1.2px;
-  color: #000000;
+  color: #003466;
   text-transform: uppercase;
   margin: 0 0 61px;
 }
@@ -2479,7 +2479,7 @@ License URI:
   margin: 0 0 10px;
 }
 .single-comment .authorDetails h5 a {
-  color: #000;
+  color: #003466;
 }
 .single-comment .authorDetails h5 a:hover {
   color: #e62b4a;
@@ -2517,7 +2517,7 @@ License URI:
   font-size: 30px;
   line-height: 0.8;
   letter-spacing: 1.2px;
-  color: #000000;
+  color: #003466;
   text-transform: uppercase;
   margin: 0 0 61px;
 }
@@ -2539,7 +2539,7 @@ License URI:
   transition: all 0.3s ease-out;
 }
 .input-form.reqError {
-  border: 1px solid #e62b4a;
+  border: 1px solid #fe7702;
 }
 textarea.input-form {
   height: 190px;
@@ -2574,7 +2574,7 @@ textarea.input-form:focus {
   -webkit-box-shadow: 0px 10px 35px 0px rgba(0, 0, 0, 0.05);
   -moz-box-shadow: 0px 10px 35px 0px rgba(0, 0, 0, 0.05);
   box-shadow: 0px 10px 35px 0px rgba(0, 0, 0, 0.05);
-  border-right: 4px solid #e62b4a;
+  border-right: 4px solid #fe7702;
   background: #fff;
 }
 .sidebar .widget {
@@ -2593,7 +2593,7 @@ textarea.input-form:focus {
   height: 91px;
   border: none;
   border-radius: 0;
-  background: #000;
+  background: #003466;
   font-size: 14px;
   letter-spacing: 1.4px;
   line-height: 30px;
@@ -2651,12 +2651,12 @@ textarea.input-form:focus {
   text-transform: uppercase;
   font-size: 16px;
   line-height: 24px;
-  color: #818181;
+  color: #003466ad;
   display: inline-block;
   margin: 3px 0 0;
 }
 .mpw_item a:hover {
-  color: #000;
+  color: #003466;
 }
 .meipaly_categorie_widget {
   position: relative;
@@ -2679,10 +2679,10 @@ textarea.input-form:focus {
   display: inline-block;
   font-size: 16px;
   line-height: 22px;
-  color: #818181;
+  color: #003466ad;
 }
 .meipaly_categorie_widget ul li a:hover {
-  color: #000;
+  color: #003466;
 }
 .meipaly_tagcloude_widget {
   position: relative;
@@ -2693,10 +2693,10 @@ textarea.input-form:focus {
   display: inline-block;
   font-size: 16px;
   line-height: 30px;
-  color: #818181;
+  color: #003466ad;
 }
 .meipaly_tagcloude_widget a:hover {
-  color: #000;
+  color: #003466;
 }
 
 /*----------------------------------------------------
@@ -3433,7 +3433,7 @@ textarea.input-form:focus {
 / 29. Bact To Top
 ------------------------------------------------------*/
 .showit {
-  background: #e62b4a;
+  background: #fe7702;
   bottom: 60px;
   color: #ffffff;
   font-size: 20px;
