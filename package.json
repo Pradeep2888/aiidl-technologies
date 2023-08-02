@@ -8,18 +8,18 @@
     "start": "next start"
   },
   "dependencies": {
-    "bootstrap": "^5.3.1",
+    "bootstrap": "^4.6.0",
     "cross-env": "^7.0.3",
-    "next": "^13.4.12",
-    "next-images": "^1.8.5",
-    "react": "18.2.0",
-    "react-bootstrap": "^2.8.0",
-    "react-countup": "^6.4.2",
-    "react-dom": "18.2.0",
-    "react-modal-video": "^2.0.1",
-    "react-scroll": "^1.8.9",
+    "next": "^10.0.0",
+    "next-images": "^1.7.0",
+    "react": "17.0.1",
+    "react-bootstrap": "^1.4.3",
+    "react-countup": "^4.3.3",
+    "react-dom": "17.0.1",
+    "react-modal-video": "^1.2.6",
+    "react-scroll": "^1.8.1",
     "react-visibility-sensor": "^5.1.1",
-    "swiper": "^10.1.0",
+    "swiper": "^6.4.6",
     "typeface-oswald": "^1.1.13"
   }
 }
