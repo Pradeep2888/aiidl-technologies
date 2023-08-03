@@ -535,9 +535,9 @@ export const ServicePostTwoData = {
   ]
 };
 
-import serviceOne01 from "@/images/home_1/6.jpg";
-import serviceOne02 from "@/images/home_1/7.jpg";
-import serviceOne03 from "@/images/home_1/8.jpg";
+import serviceOne01 from "@/images/home_1/wd.png";
+import serviceOne02 from "@/images/home_1/dm.png";
+import serviceOne03 from "@/images/home_1/pro.png";
 
 export const ServicePostThreeData = {
   sectionContent: {
@@ -786,9 +786,9 @@ export const SubscribeFormData = {
   }
 };
 
-import testimonial01 from "@/images/home_1/test-3.jpg";
-import testimonial02 from "@/images/home_1/test-3.jpg";
-import testimonial03 from "@/images/home_1/test-3.jpg";
+import testimonial01 from "@/images/home_1/test-3.png";
+import testimonial02 from "@/images/home_1/test-3.png";
+import testimonial03 from "@/images/home_1/test-3.png";
 
 export const TestimonialsOneData = {
   sectionContent: {
@@ -871,9 +871,9 @@ export const TestimonialsOneData = {
   ]
 };
 
-import featureTab01 from "@/images/home_1/latest-1.jpg";
-import featureTab02 from "@/images/home_1/support-1.jpg";
-import featureTab03 from "@/images/home_1/demo-1.jpg";
+import featureTab01 from "@/images/home_1/latest-1.png";
+import featureTab02 from "@/images/home_1/support-1.png";
+import featureTab03 from "@/images/home_1/demo-1.png";
 
 export const FeatureTabData = {
   sectionContent: {

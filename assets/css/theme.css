@@ -1787,13 +1787,13 @@ License URI:
 
 .single_wedo .overlay_wedo a {
   height: 68px;
-  color: #003466;
+  color: #fff;
   line-height: 0.8;
   font-size: 18px;
   letter-spacing: 0.72px;
   text-transform: uppercase;
   display: inline-block;
-  background: #fff;
+  background: #003466;
   text-align: center;
   padding: 26px 0;
   width: 240px;
@@ -1806,8 +1806,8 @@ License URI:
   margin: auto;
 }
 .single_wedo .overlay_wedo a:hover {
-  color: #fff;
-  background: #003466;
+  color: #003466;
+  background: #fff;
 }
 
 /*----------------------------------------------------
