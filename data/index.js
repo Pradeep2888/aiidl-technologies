@@ -121,7 +121,7 @@ export const SliderTwoData = [
   {
     image: sliderTwo03,
     subTitle: "WELCOME TO AIIDL TECHNOLOGIES",
-    title: "DIGITAL\nMARKETING\nAGENCY.",
+    title: "DIGITAL\nMARKETING & IT \n TRAINING INSTITUTE",
     button: {
       label: "DISCOVER MORE",
       url: "/about"
@@ -854,39 +854,39 @@ export const FeatureTabData = {
     title: "why choose us",
     subTitle: "our benefits",
     text:
-      "We are committed to providing our customers with exceptional service while\n offering our employees the best training."
+      "At AIIDL Technology, we aren't just a run-of-the-mill IT solutions and digital marketing company – we are your partners in innovation, architects of digital transformation, and navigators of your journey to success. With a name that encapsulates Artificial Intelligence, Innovation, Digital, and Learning, we embody the spirit of modern technology and forward-thinking strategies."
   },
   posts: [
     {
-      title: "Latest technology",
+      title: "Holistic IT Solutions",
       content:
-        "There are many variations of passages of lorem ipsum available, but the majority have  suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "AIIDL Technology isn't bound by limits; we break boundaries. Our seasoned experts are adept at crafting tailor-made software, dynamic web applications, and interactive mobile apps. By synergizing creativity and technology, we empower your business with tools that redefine efficiency and elevate user experiences. ",
       image: featureTab01,
       lists: [
         {
-          item: "Self-contained, state-of-the-art time clock"
+          item: "Unleashing Innovative Technologies for a Limitless Future"
         },
         {
-          item: "Scalability of up to 500 employees per time clock"
+          item: "Ignite Your Brand's Digital Presence with our Mastery in Marketing"
         },
         {
-          item: "The ability to connect up to 32 time clocks"
+          item: "Where Ideas Transcend Boundaries, Transforming Tech into Magic"
         },
         {
-          item: "Employee self-enrollment"
+          item: "Navigate the Seas of Digital Success with our Expert Guiding Compass"
         },
         {
-          item: "Payroll integration"
+          item: "Empower Yourself with Skills to Master the Ever-Evolving Digital Realm"
         },
         {
-          item: "Built-in backup camera to verify failed punches"
+          item: "Innovate Fearlessly, Inspire Creatively, and Succeed Beyond Imagining"
         }
       ]
     },
     {
-      title: "Awesome Support",
+      title: "Masters of Digital Branding",
       content:
-        "There are many variations of passages of lorem ipsum available, but the majority have  suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "In a world fueled by pixels and algorithms, brand prominence is paramount. AIIDL Technology excels in orchestrating impactful digital narratives. From optimizing online visibility through SEO and social media prowess to curating engaging content and launching high-impact campaigns, we ensure your brand shines brightly in the digital constellation.",
       image: featureTab02,
       lists: [
         {
@@ -910,9 +910,9 @@ export const FeatureTabData = {
       ]
     },
     {
-      title: "1 Click demo install",
+      title: "Empowerment through Education",
       content:
-        "There are many variations of passages of lorem ipsum available, but the majority have  suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+        "Digital Marketing Institute: There are many variations of passages of lorem ipsum available, but the majority have  suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
       image: featureTab03,
       lists: [
         {
