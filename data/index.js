@@ -102,19 +102,19 @@ import sliderTwo03 from "@/images/slider/carosel3.jpg";
 export const SliderTwoData = [
   {
     image: sliderTwo01,
-    subTitle: "WELCOME TO AIIDL TECHNOLOGIES",
-    title: "DIGITAL\nMARKETING\nAGENCY.",
+    subTitle: "EMPOWERING IT SOLUTIONS AND DIGITAL MARKETING STRATEGIES",
+    title: "SEAMLESS INTEGRATION OF \n CUTTING-EDGE IT AND\n MARKETING EXPERTISE.",
     button: {
-      label: "DISCOVER MORE",
+      label: "ELEVATE YOUR BUSINSS WITH US",
       url: "/about"
     }
   },
   {
     image: sliderTwo02,
-    subTitle: "WELCOME TO AIIDL TECHNOLOGIES",
-    title: "DIGITAL\nMARKETING\nAGENCY.",
+    subTitle: "BECOME A GLOBALLY RECOGNIZED DIGITAL MARKETING EXPERT",
+    title: "UNLOCK YOUR POTENTIAL \nAND LEAD IN THE \nDIGITAL LANDSCAPE.",
     button: {
-      label: "DISCOVER MORE",
+      label: "JOIN US FOR UNPARALLELED TRAINING",
       url: "/about"
     }
   },
@@ -162,13 +162,13 @@ export const ContactInfosBlock = {
 
 export const ContactInfosList = [
   {
-    title: "Noida",
+    title: "India",
     infos: [
       {
-        name: "Mukhiya Complex, 4th Floor Sector 35, Uttarpradesh 201301"
+        name: "Mukhiya Complex, 4th Floor Noida Sector 35, Uttarpradesh 201301"
       },
       {
-        name: "needhelp@meipaly.com"
+        name: "info@protechplanner.us"
       },
       {
         name: "+91-8377963214"
@@ -182,41 +182,15 @@ export const ContactInfosList = [
         name: "2123 Bluewillow dr Houston Texas 77042 USA"
       },
       {
-        name: "needhelp@meipaly.com"
+        name: "info@protechplanner.us"
       },
       {
         name: "+1(843)888-4894"
       }
     ]
   },
-  {
-    title: "new york",
-    infos: [
-      {
-        name: "8th Broklyn New York"
-      },
-      {
-        name: "needhelp@meipaly.com"
-      },
-      {
-        name: "666 888 000"
-      }
-    ]
-  },
-  {
-    title: "baltimore",
-    infos: [
-      {
-        name: "3 Lombabr 50 baltimore"
-      },
-      {
-        name: "needhelp@meipaly.com"
-      },
-      {
-        name: "666 888 000"
-      }
-    ]
-  }
+  
+  
 ];
 
 export const ContactFormTitle = {

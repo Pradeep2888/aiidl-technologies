@@ -3588,7 +3588,7 @@ textarea.input-form:focus {
 }
 @media (min-width: 1200px) {
   .main-slider__title {
-    font-size: 80px;
+    font-size: 60px;
   }
 }
 
@@ -3691,4 +3691,14 @@ textarea.input-form:focus {
 .main-slider__two .main-slider__subtext,
 .main-slider__two .main-slider__title {
   color: #003466;
+}
+
+.row.address {
+  justify-content: space-around;
+  }
+
+  .col-lg-3.col-sm-6.col-md-3 {
+    border: 2px solid grey;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
 }
