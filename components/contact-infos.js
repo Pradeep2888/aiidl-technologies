@@ -13,7 +13,7 @@ const ContactInfos = () => {
             <p className="sec_desc">{description}</p>
           </div>
         </div>
-        <div className="row">
+        <div className="row address">
           {ContactInfosList.map(({ title, infos }, index) => (
             <div
               className="col-lg-3 col-sm-6 col-md-3"

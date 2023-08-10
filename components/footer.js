@@ -24,13 +24,16 @@ const Footer = () => {
             <aside className="widget contact_widgets">
               <h3 className="widget_title">contact</h3>
               <p>
-                66 Broklyn Street, New York
-                <br />
-                United States of America
+                USA- 2123 Bluewillow dr Houston Texas 77042 USA <br/>
+                +1(843)888-4894
+                <br />  <br />
+                INDIA- Mukhiya Complex, 4th floor Sector 35, <br/> 
+                Noida, Uttar Pradesh 201301 <br/>
+                +91-8377963214
               </p>
-              <p>P: 666 888 000</p>
               <p>
-                E: <a href="#">needhelp@meipaly.com</a>
+                E: <a href="#">info@protechplanner.us</a> <br/>
+                E: <a href="#">info@protechplanner.com</a>
               </p>
             </aside>
           </div>
