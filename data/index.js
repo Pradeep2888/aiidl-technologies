@@ -771,77 +771,34 @@ export const TestimonialsOneData = {
   },
   posts: [
     {
-      name: "Cecilia Colon",
-      designation: "Director",
+      name: "Abhilasha",
+      designation: "D.W.P Client",
       image: testimonial01,
       content:
-        "This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. There are many variations of passages of available, but the majority have suffered alteration in some form by injected hum",
-      date: "25 nov, 2018"
+        "Digital Web Planet's services have elevated our online presence significantly. Their strategic digital marketing and IT solutions have led to remarkable growth in our business.",
     },
     {
-      name: "Chase Hanson",
-      designation: "CO Founder",
+      name: "Rahul",
+      designation: "Aiidl Student",
       image: testimonial02,
       content:
-        "This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. There are many variations of passages of available, but the majority have suffered alteration in some form by injected hum",
-      date: "25 nov, 2018"
+        "Thanks to Aiidl Institute, I gained invaluable insights into digital marketing and IT. The practical approach and supportive mentors have been instrumental in boosting my career.",
     },
     {
-      name: "Mittie Flores",
-      designation: "Manager",
+      name: "Samiksha",
+      designation: "Aiidl Student",
       image: testimonial03,
       content:
-        "This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. There are many variations of passages of available, but the majority have suffered alteration in some form by injected hum",
-      date: "25 nov, 2018"
+      "Aiidl Institute transformed my understanding of digital marketing and IT. The hands-on training empowered me to excel in the industry. Grateful for their expert guidance!",
     },
     {
-      name: "Carrie Sims",
-      designation: "Director",
+      name: "Mushakil",
+      designation: "USA Client",
       image: testimonial01,
       content:
-        "This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. There are many variations of passages of available, but the majority have suffered alteration in some form by injected hum",
-      date: "25 nov, 2018"
+        "Protech Planner's global perspective and seamless IT solutions have been a game-changer for us. Their digital marketing strategies have expanded our reach, making them an essential partner for success.",
     },
-    {
-      name: "Anne Stone",
-      designation: "CO Founder",
-      image: testimonial02,
-      content:
-        "This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. There are many variations of passages of available, but the majority have suffered alteration in some form by injected hum",
-      date: "25 nov, 2018"
-    },
-    {
-      name: "Hunter Brewer",
-      designation: "Manager",
-      image: testimonial03,
-      content:
-        "This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. There are many variations of passages of available, but the majority have suffered alteration in some form by injected hum",
-      date: "25 nov, 2018"
-    },
-    {
-      name: "Carrie Sims",
-      designation: "Director",
-      image: testimonial01,
-      content:
-        "This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. There are many variations of passages of available, but the majority have suffered alteration in some form by injected hum",
-      date: "25 nov, 2018"
-    },
-    {
-      name: "Anne Stone",
-      designation: "CO Founder",
-      image: testimonial02,
-      content:
-        "This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. There are many variations of passages of available, but the majority have suffered alteration in some form by injected hum",
-      date: "25 nov, 2018"
-    },
-    {
-      name: "Hunter Brewer",
-      designation: "Manager",
-      image: testimonial03,
-      content:
-        "This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. There are many variations of passages of available, but the majority have suffered alteration in some form by injected hum",
-      date: "25 nov, 2018"
-    }
+    
   ]
 };
 
@@ -1105,6 +1062,11 @@ export const FeatureTwoData = {
     },
     {
       title: "SEO Optimized",
+      text:
+        "There are many variations of passages of lorem ipsum available, but the majority have suffered."
+    },
+    {
+      title: "No Coding Skills Require",
       text:
         "There are many variations of passages of lorem ipsum available, but the majority have suffered."
     }
