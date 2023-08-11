@@ -17,6 +17,7 @@ import SearchContextProvider from "@/context/search-context";
 import MenuContextProvider from "@/context/menu-context";
 import HeaderTwo from "@/components/header-two";
 import SliderTwo from "@/components/slider-two";
+import ServiceTwo from "@/components/service-two";
 
 const HomeTwo = () => {
   return (
@@ -26,8 +27,9 @@ const HomeTwo = () => {
           <HeaderTwo />
           <SliderTwo />
           <CallToActionOne extraClassName="ready_2" buttonClass="red_bg" />
-          <ServiceHomeTwo />
           <FeatureTwo />
+          {/* <ServiceHomeTwo /> */}
+          <ServiceTwo/>
           <PortfolioHome />
           <TestimonialsOneCarousel />
           <FeatureTabOne />
