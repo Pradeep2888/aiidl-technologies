@@ -189,8 +189,8 @@ export const ContactInfosList = [
       }
     ]
   },
-  
-  
+
+
 ];
 
 export const ContactFormTitle = {
@@ -629,9 +629,9 @@ import team05 from "@/images/team/5.jpg";
 export const TeamOneData = {
   sectionContent: {
     title: "expert people",
-    subTitle: "meet the team",
+    subTitle: "Join the AIIDL Community",
     text:
-      "We are committed to providing our customers with exceptional service \n while offering our employees the best training."
+      "AIIDL Technology isn't just a company – it's a community united by a passion for technology, a thirst for innovation, and a commitment to driving digital progress. We invite you to be a part of this journey, to explore the frontiers of possibility, and to shape a future where AIIDL Technology is synonymous with digital transformation."
   },
   posts: [
     {
@@ -741,10 +741,10 @@ import video01 from "@/images/about/3.jpg";
 
 export const VideoOneData = {
   sectionContent: {
-    title: "Make amazing websites without touching cod",
-    subTitle: "the only design you need",
+    title: " Co-Creating Digital Success with AIIDL Technology",
+    subTitle: "Connect With Us",
     text:
-      "Tincidunt elit magnis nulla facilisis sagittis maecenas. Sapien nunc amet ultrices, dolores sit ipsum velit purus aliquet, massa fringilla leo orci. Lorem ipsum dolors sit amet elit magnis amet ultrices purus aliquet."
+      "Ready to embark on a journey fueled by innovation and technology? Reach out to AIIDL Technology and let's co-create a digital narrative that defines success in the digital age.Welcome to AIIDL Technology – Where Innovation Meets Vision and Technology Shapes Tomorrow."
   },
   video: {
     image: video01,
@@ -849,7 +849,99 @@ import featureTab01 from "@/images/home_1/latest-1.png";
 import featureTab02 from "@/images/home_1/support-1.png";
 import featureTab03 from "@/images/home_1/demo-1.png";
 
-export const FeatureTabData = {
+export const FeatureTabDataAbout = {
+  sectionContent: {
+    title: "Our Story",
+    subTitle: "About AIIDL Technology: Pioneering Innovation for a Digitally Empowered Future",
+    text:
+      "Founded with a passion for technology and a vision for a digitally transformed world, AIIDL Technology has emerged as a beacon of innovation in the realms of IT solutions and digital marketing. Our journey began with a singular focus: to harness the power of artificial intelligence, fuel innovation, and provide holistic solutions that empower businesses and individuals to thrive in the digital age."
+  },
+  posts: [
+    {
+      title: "The AIIDL Approach",
+      content:
+        "We harness the potential of AI to drive efficiency, automate processes, and uncover valuable insights that shape strategic decisions. Our DNA thrives on innovation. We explore new horizons, experiment with emerging technologies, and challenge conventions to deliver solutions that push the boundaries of possibility.",
+      image: featureTab01,
+      lists: [
+        {
+          item: "Artificial Intelligence"
+        },
+        {
+          item: "Innovation Hub"
+        },
+        {
+          item: "Digital Mastery"
+        },
+        {
+          item: "Process Automation"
+        },
+        {
+          item: "Learning Ecosystem"
+        },
+        {
+          item: "Strategic Decision-Making"
+        }
+      ]
+    },
+    {
+      title: "Our Vision",
+      content:
+        "At AIIDL Technology, we envision a future where technology isn't just a tool but a transformative force. A future where businesses harness data-driven insights to make informed decisions, where brands seamlessly connect with their audiences across digital landscapes, and where individuals possess the skills to navigate and thrive in a rapidly evolving digital world.",
+      image: featureTab02,
+      lists: [
+        {
+          item: "Transformative Impact"
+        },
+        {
+          item: "Data-Powered Decisions"
+        },
+        {
+          item: "Seamless Digital Engagement"
+        },
+        {
+          item: "Digital Empowerment"
+        },
+        {
+          item: "Adaptive Agility"
+        },
+        {
+          item: "Positive Future"
+        }
+      ]
+    },
+    {
+      title: "Our Mission",
+      content:
+        "We are committed to understanding your unique needs and crafting solutions that resonate with your goals, resulting in real-world impact. From concept to deployment, we adhere to the highest standards of quality, ensuring every solution we deliver is a testament to our dedication to excellence. Through our Digital Marketing Institute, we empower individuals to embrace digital literacy and master the art of online engagement.",
+      image: featureTab03,
+      lists: [
+        {
+          item: "Client-Centric Solutions"
+        },
+        {
+          item: "Excellence in Execution"
+        },
+        {
+          item: "Empowerment Through Knowledge"
+        },
+        {
+          item: "Continuous Innovation"
+        },
+        {
+          item: "Knowledge Empowerment"
+        },
+        {
+          item: "Global Digital Leadership"
+        }
+      ]
+    }
+  ]
+};
+
+
+
+
+export const FeatureTabDataHome = {
   sectionContent: {
     title: "why choose us",
     subTitle: "our benefits",
@@ -938,6 +1030,9 @@ export const FeatureTabData = {
   ]
 };
 
+
+
+
 export const ParallaxOneData = {
   iconName: "mei-team",
   title: "Great things in business are never done by one person.",
@@ -971,15 +1066,15 @@ export const VideoTwoData = {
   }
 };
 
-import aboutTwo01 from "@/images/home_1/2.jpg";
-import aboutTwo02 from "@/images/home_1/1.jpg";
+import aboutTwo01 from "@/images/home_1/abt-01.png";
+import aboutTwo02 from "@/images/home_1/abt-01.png";
 
 export const AboutTwoData = {
   sectionContent: {
     title: "We are the Best Website agency in The World",
-    subTitle: "welcom to smart meipaly web agency",
+    subTitle: "Welcome to AIIDL Technologies",
     text:
-      "We are committed to providing our customers with exceptional service while offering our employees the best training. Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the industry's standard dummy text ever since the 1500s."
+      "Pioneering Website Excellence Worldwide. We combine visionary design, cutting-edge technology, and strategic digital marketing to deliver unmatched web solutions. Our global reputation, built on client satisfaction and innovation, sets us apart as the premier website agency, shaping the future of online success."
   },
   button: {
     label: "Learn More",

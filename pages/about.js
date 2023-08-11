@@ -12,6 +12,7 @@ import FeatureTabOne from "@/components/feature-tab-1";
 import HeaderOne from "@/components/header-one";
 import SearchContextProvider from "@/context/search-context";
 import MenuContextProvider from "@/context/menu-context";
+import AboutTwo from "@/components/about-two";
 
 const AboutPage = () => {
   return (
@@ -19,13 +20,13 @@ const AboutPage = () => {
       <SearchContextProvider>
         <Layout PageTitle="About Us Page">
           <HeaderOne />
-          <PageBanner title="About Us" name="About" />
-          <AboutOne />
+          <PageBanner title="About Us" name="About" />          
+          <AboutTwo />
           <TestimonialsOneCarousel />
-          <SubscribeForm />
-          <TeamCarousel />
-          <VideoOne />
           <FeatureTabOne />
+          <SubscribeForm />         
+          <VideoOne />
+          <TeamCarousel />          
           <CallToActionOne extraClassName="ready" />
           <Footer />
         </Layout>
