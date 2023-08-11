@@ -864,22 +864,22 @@ export const FeatureTabData = {
       image: featureTab01,
       lists: [
         {
-          item: "Unleashing Innovative Technologies for a Limitless Future"
+          item: "Unleashing Tomorrow's Innovations"
         },
         {
-          item: "Ignite Your Brand's Digital Presence with our Mastery in Marketing"
+          item: "Harnessing Tech for Business Triumph"
         },
         {
-          item: "Where Ideas Transcend Boundaries, Transforming Tech into Magic"
+          item: "Where Dreams Inspire Tech Reality"
         },
         {
-          item: "Navigate the Seas of Digital Success with our Expert Guiding Compass"
+          item: "Navigating Success with Digital Prowess"
         },
         {
-          item: "Empower Yourself with Skills to Master the Ever-Evolving Digital Realm"
+          item: "Empowerment through Tech Evolution"
         },
         {
-          item: "Innovate Fearlessly, Inspire Creatively, and Succeed Beyond Imagining"
+          item: "Innovate. Progress. Lead."
         }
       ]
     },
@@ -890,22 +890,22 @@ export const FeatureTabData = {
       image: featureTab02,
       lists: [
         {
-          item: "Self-contained, state-of-the-art time clock"
+          item: "Igniting Brands with Digital Magic"
         },
         {
-          item: "Scalability of up to 500 employees per time clock"
+          item: "Creating Waves in Online Visibility"
         },
         {
-          item: "The ability to connect up to 32 time clocks"
+          item: "Where Ideas Reshape Digital Horizons"
         },
         {
-          item: "Employee self-enrollment"
+          item: "Navigating Brands to Digital Success"
         },
         {
-          item: "Payroll integration"
+          item: "Empowering Brands with Online Brilliance"
         },
         {
-          item: "Built-in backup camera to verify failed punches"
+          item: "Innovate. Captivate. Triumph"
         }
       ]
     },
@@ -916,22 +916,22 @@ export const FeatureTabData = {
       image: featureTab03,
       lists: [
         {
-          item: "Self-contained, state-of-the-art time clock"
+          item: "Empowering Dreams through Education"
         },
         {
-          item: "Scalability of up to 500 employees per time clock"
+          item: "Knowledge: Your Key to Digital Heights"
         },
         {
-          item: "The ability to connect up to 32 time clocks"
+          item: "Where Learning Ignites Digital Futures"
         },
         {
-          item: "Employee self-enrollment"
+          item: "Navigating Success via Education"
         },
         {
-          item: "Payroll integration"
+          item: "Empowering Futures through Knowledge"
         },
         {
-          item: "Built-in backup camera to verify failed punches"
+          item: "Innovate. Educate. Elevate."
         }
       ]
     }
