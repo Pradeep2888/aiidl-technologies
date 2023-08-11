@@ -1,11 +1,11 @@
 import React, { useState } from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import SectionTitle from "@/components/section-title";
-import { FeatureTabDataAbout } from "@/data";
+import { FeatureTabDataHome } from "@/data";
 
-const FeatureTabOne = () => {
+const FeatureTabOneHome = () => {
   const [active, setActive] = useState(1);
-  const { sectionContent, posts } = FeatureTabDataAbout;
+  const { sectionContent, posts } = FeatureTabDataHome;
   return (
     <section className="commonSection chooseUs">
       <Container>
@@ -78,4 +78,4 @@ const FeatureTabOne = () => {
   );
 };
 
-export default FeatureTabOne;
+export default FeatureTabOneHome;

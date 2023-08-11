@@ -10,7 +10,6 @@ import ParallaxOne from "@/components/parallax-1";
 import GoogleMap from "@/components/google-map";
 import TestimonialsOneCarousel from "@/components/testimonials-carousel";
 import PortfolioHome from "@/components/portfolio-home";
-import FeatureTabOne from "@/components/feature-tab-1";
 import CallToActionTwo from "@/components/call-to-action-two";
 import FeatureTwo from "@/components/feature-two";
 import SearchContextProvider from "@/context/search-context";
@@ -18,6 +17,7 @@ import MenuContextProvider from "@/context/menu-context";
 import HeaderTwo from "@/components/header-two";
 import SliderTwo from "@/components/slider-two";
 import ServiceTwo from "@/components/service-two";
+import FeatureTabOneHome from "@/components/feature-tab-Home";
 
 const HomeTwo = () => {
   return (
@@ -32,7 +32,7 @@ const HomeTwo = () => {
           <ServiceTwo/>
           <PortfolioHome />
           <TestimonialsOneCarousel />
-          <FeatureTabOne />
+          <FeatureTabOneHome />
           <ServiceThree />
           <ParallaxOne />
           <BlogHome />

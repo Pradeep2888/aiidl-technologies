@@ -6,6 +6,7 @@ import PortfolioOne from "@/components/portfolio-one";
 import MenuContextProvider from "context/menu-context";
 import SearchContextProvider from "context/search-context";
 import HeaderOne from "@/components/header-one";
+import { PortfolioFilters } from "@/data";
 
 const PortfolioPage = () => {
   return (
@@ -14,7 +15,7 @@ const PortfolioPage = () => {
         <Layout PageTitle="Portfolio 01 Page">
           <HeaderOne />
           <PageBanner title="Portfolio 01" name="Portfolio" />
-          <PortfolioOne />
+          <PortfolioOne />       
           <Footer />
         </Layout>
       </SearchContextProvider>
