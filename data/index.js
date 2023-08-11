@@ -789,7 +789,7 @@ export const TestimonialsOneData = {
       designation: "Aiidl Student",
       image: testimonial03,
       content:
-      "Aiidl Institute transformed my understanding of digital marketing and IT. The hands-on training empowered me to excel in the industry. Grateful for their expert guidance!",
+        "Aiidl Institute transformed my understanding of digital marketing and IT. The hands-on training empowered me to excel in the industry. Grateful for their expert guidance!",
     },
     {
       name: "Mushakil",
@@ -798,7 +798,7 @@ export const TestimonialsOneData = {
       content:
         "Protech Planner's global perspective and seamless IT solutions have been a game-changer for us. Their digital marketing strategies have expanded our reach, making them an essential partner for success.",
     },
-    
+
   ]
 };
 
@@ -1047,29 +1047,26 @@ export const FeatureTwoData = {
     title: "real experience",
     subTitle: "our core features",
     text:
-      " We are committed to providing our customers with exceptional service while offering our employees the best training. "
+      " Empowering Digital Excellence with Aiidl Technologies. "
   },
   posts: [
     {
-      title: "No Coding Skills Require",
+      title: "Nurturing Future Talent with the AIIDL Institute",
       text:
-        "There are many variations of passages of lorem ipsum available, but the majority have suffered."
+        "Students, business owners, and entrepreneurs receive thorough digital marketing and IT training from the Aiidl Institute with the goal of preparing them for a successful future in the digital age."
     },
     {
-      title: "Online Documentation",
+      title: "Driving Growth with IT and Digital Marketing Services",
       text:
-        "There are many variations of passages of lorem ipsum available, but the majority have suffered."
+        " Digital Web Planet: advancing Indian enterprises with state-of-the-art IT and digital marketing solutions, maximising online potential for impressive growth. \n  Protech Planner: Supporting worldwide success and innovation by enhancing international businesses with specialised IT and digital marketing solutions.",
+
     },
     {
-      title: "SEO Optimized",
+      title: "Connecting Global Teams with Virtual Employee Staffing",
       text:
-        "There are many variations of passages of lorem ipsum available, but the majority have suffered."
-    },
-    {
-      title: "No Coding Skills Require",
-      text:
-        "There are many variations of passages of lorem ipsum available, but the majority have suffered."
+        "By providing virtual staffing services to overseas businesses, 9amc bridges borders by linking them with qualified individuals from a variety of professions, promoting effective teamwork and increasing productivity."
     }
+
   ],
   image: {
     text: "Total design freedom \n for everyone.",
