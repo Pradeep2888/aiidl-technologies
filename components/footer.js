@@ -13,10 +13,7 @@ const Footer = () => {
                 <img src={light} alt="" />
               </a>
               <p>
-                Welcome to our web design agency. Lorem ipsum is simply free
-                text dolor sit amet consectetur adipisicing elit. Tempore
-                corrupti temporibus fuga earum asperiores, alias excepturi sit
-                mpedit fugit laudantium.
+              AIIDL Technology isn't just a company – it's a community united by a passion for technology, a thirst for innovation, and a commitment to driving digital progress. We invite you to be a part of this journey, to explore the frontiers of possibility, and to shape a future where AIIDL Technology is synonymous with digital transformation.
               </p>
             </aside>
           </div>
