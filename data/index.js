@@ -157,7 +157,7 @@ export const ContactInfosBlock = {
   subTitle: "our offices",
   title: "offices near you",
   description:
-    "We are committed to providing our customers with exceptional service while \n offering our employees the best training."
+    "If you're in the vicinity, we'd love to welcome you to our premises. Feel free to drop by, say hello, and let's discuss how AIIDL Technology can be a catalyst for your digital journey."
 };
 
 export const ContactInfosList = [
