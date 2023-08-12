@@ -354,37 +354,37 @@ import portfolio06 from "@/images/portfolio/6.jpg";
 
 export const PortfolioData = [
   {
-    title: "Design Styles",
+    title: "Website design and maintenance",
     categories: ["all", "graphic"],
     image: portfolio01,
     url: "/portfolio-details"
   },
   {
-    title: "Design Styles",
+    title: "IOS and Android app design",
     categories: ["all", "graphic"],
     image: portfolio02,
     url: "/portfolio-details"
   },
   {
-    title: "Design Styles",
+    title: "Social media management",
     categories: ["all", "graphic"],
     image: portfolio03,
     url: "/portfolio-details"
   },
   {
-    title: "Design Styles",
+    title: "Email marketing, WhatsApp marketing, and SMS",
     categories: ["all", "graphic"],
     image: portfolio04,
     url: "/portfolio-details"
   },
   {
-    title: "Design Styles",
+    title: "Marketing",
     categories: ["all", "graphic"],
     image: portfolio05,
     url: "/portfolio-details"
   },
   {
-    title: "Design Styles",
+    title: "Content creation",
     categories: ["all", "graphic"],
     image: portfolio06,
     url: "/portfolio-details"
@@ -1046,10 +1046,10 @@ import featureTwo01 from "@/images/home_1/5.jpg";
 
 export const FeatureTwoData = {
   sectionContent: {
-    title: "real experience",
+    title: "Empowering Digital Excellence with Aiidl Technologies.",
     subTitle: "our core features",
     text:
-      " Empowering Digital Excellence with Aiidl Technologies. "
+      ""
   },
   posts: [
     {
@@ -1060,13 +1060,13 @@ export const FeatureTwoData = {
     {
       title: "Driving Growth with IT and Digital Marketing Services",
       text:
-        " Digital Web Planet: Advancing Indian enterprises with state-of-the-art IT and digital marketing solutions, maximising online potential for impressive growth. \n  Protech Planner: Supporting worldwide success and innovation by enhancing international businesses with specialised IT and digital marketing solutions.",
+        ` <a target="_blank" href="https://digitalwebplanet.com/" ><strong>Digital Web Planet:</strong></a> Advancing Indian enterprises with state-of-the-art IT and digital marketing solutions, maximising online potential for impressive growth. \n <a target="_blank" href="https://protechplanner.us/" ><strong>Protech Planner:</strong></a>: Supporting worldwide success and innovation by enhancing international businesses with specialised IT and digital marketing solutions.`,
 
     },
     {
       title: "Connecting Global Teams with Virtual Employee Staffing",
       text:
-        "By providing virtual staffing services to overseas businesses, 9amc bridges borders by linking them with qualified individuals from a variety of professions, promoting effective teamwork and increasing productivity."
+        `By providing virtual staffing services to overseas businesses, <a target="_blank" href="https://9amc.com/" ><strong>9amc</strong></a> bridges borders by linking them with qualified individuals from a variety of professions, promoting effective teamwork and increasing productivity.`
     }
 
   ],

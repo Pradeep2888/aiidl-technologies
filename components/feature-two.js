@@ -26,7 +26,8 @@ const FeatureTwo = () => {
                   <div className="singleFeature" key={index}>
                     <div className="f_count">{zeroPad(index + 1, 2)}</div>
                     <h3>{title}</h3>
-                    <p>{text}</p>
+                    <p  dangerouslySetInnerHTML={{ __html:text }}  />
+                    {/* <p>{text}</p> */}
                   </div>
                 );
               })}

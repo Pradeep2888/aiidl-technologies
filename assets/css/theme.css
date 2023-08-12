@@ -627,6 +627,7 @@ License URI:
   letter-spacing: 0.8px;
   margin: 0;
   text-transform: uppercase;
+  line-height: 22px;
 }
 .singlefolio .folioHover h4 a {
   color: #fff;
