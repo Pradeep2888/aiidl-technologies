@@ -31,9 +31,9 @@ const RelatedPortfolio = () => {
             <h4 className="sub_title">our portfolio</h4>
             <h2 className="sec_title">related work</h2>
             <p className="sec_desc">
-              We are committed to providing our customers with exceptional
-              service while
-              <br /> offering our employees the best training.
+              <b>Innovation:</b> We approach each project with fresh perspectives and embrace emerging technologies to deliver solutions that stand out in the digital landscape. <br />
+              <b>Results-Driven:</b> Our projects are not just endeavors; they are journeys with measurable outcomes. Every success story is backed by data and tangible results. <br/>
+              <b>Collaboration:</b>Our partnerships with clients are built on open communication and shared goals. We collaborate closely to ensure the final product aligns with their vision and objectives.
             </p>
           </div>
         </div>

@@ -404,9 +404,9 @@ import portfolioD02 from "@/images/portfolio/8.jpg";
 
 export const PortfolioDetailsData = {
   gallery: [{ image: portfolioD01 }, { image: portfolioD02 }],
-  title: "Design Styles",
+  title: "Showcasing Our Digital Success Stories",
   text:
-    " Tincidunt elit magnis nulla facilisis sagittis sapien nunc amet ultrices dolores sit ipsum velit purus aliquet massa fringilla leo orci. Sapien nunc amet ultrices, dolores sit ipsum velit purus aliquet, massa fringilla leo orci dolors sit amet elit amet. ",
+    " Welcome to the AIIDL Technology Portfolio – Where Innovation is Showcased and Success is Defined, Welcome to the AIIDL Technology Portfolio, where innovation, technology, and creativity converge to create digital success stories, Explore our carefully curated selection of projects that highlight our prowess in IT solutions and digital marketing, Each project exemplifies our commitment to excellence, innovation, and client satisfaction, Explore our portfolio, and witness the impact AIIDL Technology can have on your digital aspirations. Join us on the path to redefining success in the digital age. ",
   client: "Jessica Brown",
   categories: [
     {
@@ -1060,7 +1060,7 @@ export const FeatureTwoData = {
     {
       title: "Driving Growth with IT and Digital Marketing Services",
       text:
-        " Digital Web Planet: advancing Indian enterprises with state-of-the-art IT and digital marketing solutions, maximising online potential for impressive growth. \n  Protech Planner: Supporting worldwide success and innovation by enhancing international businesses with specialised IT and digital marketing solutions.",
+        " Digital Web Planet: Advancing Indian enterprises with state-of-the-art IT and digital marketing solutions, maximising online potential for impressive growth. \n  Protech Planner: Supporting worldwide success and innovation by enhancing international businesses with specialised IT and digital marketing solutions.",
 
     },
     {

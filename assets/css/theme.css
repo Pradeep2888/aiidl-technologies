@@ -2159,7 +2159,7 @@ License URI:
 }
 .singlePortfoio_content h3 {
   font-size: 30px;
-  line-height: 0.8;
+  line-height: 1.2;
   color: #003466;
   text-transform: uppercase;
   letter-spacing: 1.04px;
@@ -2176,6 +2176,7 @@ License URI:
 .singlePortfoio_content p {
   line-height: 30px;
   margin: 0;
+  text-align: justify;
 }
 .singlePortfoio_content p a {
   display: inline-block;
