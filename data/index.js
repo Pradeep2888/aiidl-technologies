@@ -761,8 +761,9 @@ export const SubscribeFormData = {
 };
 
 import testimonial01 from "@/images/home_1/test-3.png";
-import testimonial02 from "@/images/home_1/test-3.png";
-import testimonial03 from "@/images/home_1/test-3.png";
+import testimonial02 from "@/images/home_1/test-1.png";
+import testimonial03 from "@/images/home_1/test-4.png";
+import testimonial04 from "@/images/home_1/test-2.png";
 
 export const TestimonialsOneData = {
   sectionContent: {
@@ -794,13 +795,14 @@ export const TestimonialsOneData = {
     {
       name: "Mushakil",
       designation: "USA Client",
-      image: testimonial01,
+      image: testimonial04,
       content:
         "Protech Planner's global perspective and seamless IT solutions have been a game-changer for us. Their digital marketing strategies have expanded our reach, making them an essential partner for success.",
     },
-
+   
   ]
 };
+
 
 import featureTab01 from "@/images/home_1/latest-1.png";
 import featureTab02 from "@/images/home_1/support-1.png";
