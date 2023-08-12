@@ -345,12 +345,12 @@ export const BlogComments = [
   }
 ];
 
-import portfolio01 from "@/images/portfolio/1.jpg";
-import portfolio02 from "@/images/portfolio/2.jpg";
-import portfolio03 from "@/images/portfolio/3.jpg";
-import portfolio04 from "@/images/portfolio/4.jpg";
-import portfolio05 from "@/images/portfolio/5.jpg";
-import portfolio06 from "@/images/portfolio/6.jpg";
+import portfolio01 from "@/images/portfolio/1.png";
+import portfolio02 from "@/images/portfolio/2.png";
+import portfolio03 from "@/images/portfolio/3.png";
+import portfolio04 from "@/images/portfolio/4.png";
+import portfolio05 from "@/images/portfolio/5.png";
+import portfolio06 from "@/images/portfolio/6.png";
 
 export const PortfolioData = [
   {
@@ -1042,7 +1042,7 @@ export const AboutTwoData = {
   gallery: [aboutTwo01, aboutTwo02]
 };
 
-import featureTwo01 from "@/images/home_1/5.jpg";
+import featureTwo01 from "@/images/home_1/5.png";
 
 export const FeatureTwoData = {
   sectionContent: {

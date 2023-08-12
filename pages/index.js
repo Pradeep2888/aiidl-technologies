@@ -35,7 +35,8 @@ const HomeTwo = () => {
           <FeatureTabOneHome />
           <ServiceThree />
           <ParallaxOne />
-          <BlogHome />
+          {/* <BlogHome />
+           */}
           <GoogleMap extraClass="contact-page" />
           <CallToActionTwo />
           <ContactInfos />
