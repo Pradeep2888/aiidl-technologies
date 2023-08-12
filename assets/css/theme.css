@@ -1302,12 +1302,14 @@ License URI:
   max-width: 100%;
   height: auto;
   margin-bottom: 34px;
+  background-color: #fff;
 }
 .footer_1 .aboutwidget p {
   font-size: 14px;
   letter-spacing: 0.56px;
   color: #aaaaaa;
   margin: 0;
+  text-align: justify;
 }
 .footer_1 .contact_widgets {
   padding-left: 60px;
