@@ -807,6 +807,9 @@ export const TestimonialsOneData = {
 import featureTab01 from "@/images/home_1/latest-1.png";
 import featureTab02 from "@/images/home_1/support-1.png";
 import featureTab03 from "@/images/home_1/demo-1.png";
+import featureTab04 from "@/images/home_1/IT-01.png";
+import featureTab05 from "@/images/home_1/DB-01.png";
+import featureTab06 from "@/images/home_1/ED-01.png";
 
 export const FeatureTabDataAbout = {
   sectionContent: {
@@ -912,7 +915,7 @@ export const FeatureTabDataHome = {
       title: "Holistic IT Solutions",
       content:
         "AIIDL Technology isn't bound by limits; we break boundaries. Our seasoned experts are adept at crafting tailor-made software, dynamic web applications, and interactive mobile apps. By synergizing creativity and technology, we empower your business with tools that redefine efficiency and elevate user experiences. ",
-      image: featureTab01,
+      image: featureTab04,
       lists: [
         {
           item: "Unleashing Tomorrow's Innovations"
@@ -938,7 +941,7 @@ export const FeatureTabDataHome = {
       title: "Masters of Digital Branding",
       content:
         "In a world fueled by pixels and algorithms, brand prominence is paramount. AIIDL Technology excels in orchestrating impactful digital narratives. From optimizing online visibility through SEO and social media prowess to curating engaging content and launching high-impact campaigns, we ensure your brand shines brightly in the digital constellation.",
-      image: featureTab02,
+      image: featureTab05,
       lists: [
         {
           item: "Igniting Brands with Digital Magic"
@@ -964,7 +967,7 @@ export const FeatureTabDataHome = {
       title: "Empowerment through Education",
       content:
         "Digital Marketing Institute: There are many variations of passages of lorem ipsum available, but the majority have  suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
-      image: featureTab03,
+      image: featureTab06,
       lists: [
         {
           item: "Empowering Dreams through Education"
