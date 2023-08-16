@@ -30,16 +30,16 @@ const HomeTwo = () => {
           <FeatureTwo />
           {/* <ServiceHomeTwo /> */}
           <ServiceTwo/>
-          <PortfolioHome />
-          <TestimonialsOneCarousel />
           <FeatureTabOneHome />
+          <PortfolioHome />
           <ServiceThree />
           <ParallaxOne />
-          {/* <BlogHome />
-           */}
-          <GoogleMap extraClass="contact-page" />
           <CallToActionTwo />
           <ContactInfos />
+          <TestimonialsOneCarousel /> 
+          {/* <BlogHome />
+           */}
+          {/* <GoogleMap extraClass="contact-page" /> */}
           <Footer />
         </Layout>
       </SearchContextProvider>
