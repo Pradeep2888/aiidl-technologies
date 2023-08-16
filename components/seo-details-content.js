@@ -11,7 +11,7 @@ const SeoDetailsContent = () => {
 
         One of the best ways to connect with the maximum users is to use their language. Therefore AIIDL Technologies is now offering multilingual SEO Services, which will get you with good organic traffic. Moreover, with our outstanding services, you can dominate in market-specific and country-specific search engines. </p> <br/>
        <p>
-       Content is the language that helps you to attract and interact with your customers. However, generating the right content is very crucial. When you opt for Digital Marketing, you need to present your brand using content marketing. So, to outstand, the Protech Planner is head to offer you a plethora of digital marketing services.
+       Content is the language that helps you to attract and interact with your customers. However, generating the right content is very crucial. When you opt for Digital Marketing, you need to present your brand using content marketing. So, to outstand, the AIIDL Technologies is head to offer you a plethora of digital marketing services.
       </p>
       <div className="row gaping">
         <div className="col-lg-6 col-sm-12 col-md-6">
