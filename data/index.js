@@ -49,16 +49,16 @@ export const NavLinks = [
     name: "Blog",
     url: "/blog",
     subItems: [
+      // {
+      //   name: "Blog 01",
+      //   url: "/blog"
+      // },
+      // {
+      //   name: "Blog 02",
+      //   url: "/blog-2"
+      // },
       {
         name: "Blog 01",
-        url: "/blog"
-      },
-      {
-        name: "Blog 02",
-        url: "/blog-2"
-      },
-      {
-        name: "Blog 03",
         url: "/blog-3"
       },
       {
@@ -211,7 +211,7 @@ import blogImage6 from "@/images/blog/6.jpg";
 
 export const BlogData = [
   {
-    title: "basic rules of running web agency business",
+    title: "Mastering the Digital Landscape: Aiidl Institute's Comprehensive Training Programs",
     date: "20 nov",
     url: "/blog-single",
     image: blogImage1
