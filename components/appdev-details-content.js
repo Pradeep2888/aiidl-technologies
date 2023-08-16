@@ -1,5 +1,5 @@
 import React from "react";
-import serviceS1 from "@/images/s1.jpg";
+import serviceS1 from "@/images/home_1/AD-1.png";
 import serviceS2 from "@/images/s2.jpg";
 const AppdevDetailsContent = () => {
   return (
