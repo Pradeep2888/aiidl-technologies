@@ -34,7 +34,7 @@ const TestimonialsOneCarousel = () => {
   };
   const { sectionContent, posts } = TestimonialsOneData;
   return (
-    <section className="commonSection testimonial_2">
+    <section className="testimonial_2">
       <Container>
         <Row className="testimoniTab">
           <Col lg={5}>
