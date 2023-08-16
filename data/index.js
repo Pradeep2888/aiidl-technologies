@@ -1,5 +1,7 @@
 import logoLight from "@/images/logo3.png";
-import logoDark from "@/images/logo3.png";
+import logoDark from "@/images/logo3.png";7
+
+
 
 export const LogoImage = {
   light: logoLight,
@@ -489,22 +491,22 @@ export const ServicePostTwoData = {
     {
       title: "Graphic Designing",
       iconName: "mei-computer-graphic",
-      url: "/service-details"
+      url: "/graphic"
     },
     {
       title: "Digital Marketing",
       iconName: "mei-development-1",
-      url: "/service-details"
+      url: "/digital"
     },
     {
       title: "SEo & Content Writing",
       iconName: "mei-development",
-      url: "/service-details"
+      url: "/seo"
     },
     {
       title: "App Development",
       iconName: "mei-app-development",
-      url: "/service-details"
+      url: "/appdev"
     }
   ]
 };
