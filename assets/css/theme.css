@@ -1254,7 +1254,7 @@ License URI:
 / 13. Ready Section
 ------------------------------------------------------*/
 .ready {
-  background: url(../images/bg/4.jpg) no-repeat center center / cover;
+  background: url(../images/home_1/cta.png) no-repeat center center / cover;
 }
 .ready .sec_title {
   margin: 0;
@@ -1280,7 +1280,7 @@ License URI:
 .footer_1 {
   position: relative;
   padding: 130px 0 0;
-  background: url(../images/bg/5.jpg) no-repeat center center / cover;
+  background: url(../images/home_1/footer.png) no-repeat center center / cover;
 }
 .footer_1 .widget {
   position: relative;
@@ -1537,7 +1537,7 @@ License URI:
 / 17. Tesimonial 02 Section
 ------------------------------------------------------*/
 .testimonial_2 {
-  background: url(../images/bg/7.jpg) no-repeat center center / cover;
+  background: url(../images/home_1/testimonialsection.png) no-repeat center center / cover;
 }
 .testimoniTab {
   position: relative;
@@ -1858,7 +1858,7 @@ License URI:
 .pageBanner {
   position: relative;
   min-height: 465px;
-  background: url(../images/bg/8.jpg) no-repeat center center / cover;
+  background: url(../images/home_1/services\ we\ are\ offering.png) no-repeat center center / cover;
   padding-top: 224px;
 }
 .banner_content {
