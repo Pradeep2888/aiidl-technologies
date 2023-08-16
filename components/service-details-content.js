@@ -7,9 +7,9 @@ const ServiceDetailsContent = () => {
       <img src={serviceS1} alt="" />
       <h2>Website Development</h2>
       <p>
-        If you want to reach potential customers faster, then you must have a catchy and user-friendly website. You may find many website designing company in India who are ready toprovide you with your web designing. But Protech Planner is the expert in solving all your website designing queries and get maximum results. A website includes interface design, logo designing, web graphic design, and many other important factors including search engine optimization.We at Protech Planner keep all of this in mind and create or recreate websites for all types of businesses with a charming brand personality.
+        Having a website doesn’t benefit you until it is user-friendly, captivating, mobile-friendly, and load faster when a visitor comes to it. We at Protech Planner, a well-known Website Development Company in Delhi are experts in grabbing visitor’s attention by creating fantastic websites for our clients. We are working with multiple industries and can create an e-commerce website, informative website, education site, health site, and many others. We offer customized web development solutions at a reasonable price that will bring your more visitors and sales.
 
-        We understand that each brand needs special care and attention which is our driving force to curate different web designs tailored to your needs. We are a Delhi based website designing company and we provide our services that listen to the worldwide need for web designing. Our combination of innovative thinking ensures value to help you and your business grow and reach a wider audience.
+        Having a catchy, professionals, and user-friendly website is of utmost importance for every business. Our main focus is to provide you a high-quality website that can stand out among the crowd. We have a large team of proficient designers who are highly experienced and connect you to your requirements. After understanding your business and expectations, our developers initiate the work on your website. We as Web Development Company ensure that you are provided with a site map before finalizing the design for your website.
       </p>
       <div className="row gaping">
         <div className="col-lg-6 col-sm-12 col-md-6">
@@ -18,47 +18,41 @@ const ServiceDetailsContent = () => {
         <div className="col-lg-6 col-sm-12 col-md-6">
           <h3>Planning & Strategy</h3>
           <p>
-           Website Designing Services Offered Byprotechplanner.
+            Website Designing Services Offered By AIIDL Technologies.
           </p>
           <ul>
             <li>
-              <i className="fa fa-check-square"></i>Research beyond the business
-              plan
+              <i className="fa fa-check-square"></i>CMS Web Development
+              
             </li>
             <li>
-              <i className="fa fa-check-square"></i>Marketing options and rates
+              <i className="fa fa-check-square"></i>E-Commerce Website Development
             </li>
             <li>
-              <i className="fa fa-check-square"></i>The ability to turnaround
-              consulting
-            </li>
+              <i className="fa fa-check-square"></i>Portal Web Development
+              
+            </li> <br/>
             <li>
-              <i className="fa fa-check-square"></i>Help companies into more
-              profitable
-            </li>
+              <i className="fa fa-check-square"></i>PHP Web Development 
+              
+            </li> <br/>
             <li>
-              <i className="fa fa-check-square"></i>Customer engagement matters
+              <i className="fa fa-check-square"></i>WordPress Development
+            </li> <br/>
+            <li>
+              <i className="fa fa-check-square"></i>ASP Web Development
+            </li> <br/>
+            <li>
+              <i className="fa fa-check-square"></i>B2B/B2C Web Development
             </li>
           </ul>
         </div>
       </div>
       <p>
-        Need something changed or is there something not quite working the way
-        you envisaged? Is your van a little old and tired and need refreshing?
-        Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry. Lorem Ipsum has been the industry's standard dummy text ever
-        since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book. It has survived not only five
-        centuries, but also the leap into electronic typesetting, remaining
-        essentially unchanged.
+      We understand that each brand needs special care and attention which is our driving force to curate different web designs tailored to your needs. We are a Delhi based website designing company and we provide our services that listen to the worldwide need for web designing. Our combination of innovative thinking ensures value to help you and your business grow and reach a wider audience.
       </p>
       <p>
-        Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry. Lorem Ipsum has been the industry's standard dummy text ever
-        since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book. It has survived not only five
-        centuries, but also the leap into electronic typesetting, remaining
-        essentially unchanged.
+      We have served 500+ clients across the globe and are known as the best e-Commerce Website Development Company in India. We have worked for startups, as well as, for well-developed businesses that are doing great today! Our happy customers are our strength and we would love to bring a smile on your face too! So, if you are looking for web development services with affordable prices and expertise, connect us over call or email to discuss the project.
       </p>
     </div>
   );

@@ -117,7 +117,7 @@ ul li{
     position: absolute;
     right: 0;
     top: 0;
-    background: #fe7702;
+    background: #fff;
     transition: all 0.4s ease-out;
     -moz-transition: all 0.4s ease-out;
     -webkit-transition: all 0.4s ease-out;
@@ -128,7 +128,7 @@ ul li{
     width: 100%;
 }
 .common_btn:hover{
-    color: #fff;
+    color: #000;
 }
 .common_btn.red_bg{
     padding: 28px 40.5px;

@@ -5,11 +5,11 @@ const GraphicDetailsContent = () => {
   return (
     <div className="serviceArea">
       <img src={serviceS1} alt="" />
-      <h2>Website Development</h2>
+      <h2>Graphic Designing</h2>
       <p>
-        If you want to reach potential customers faster, then you must have a catchy and user-friendly website. You may find many website designing company in India who are ready toprovide you with your web designing. But Protech Planner is the expert in solving all your website designing queries and get maximum results. A website includes interface design, logo designing, web graphic design, and many other important factors including search engine optimization.We at Protech Planner keep all of this in mind and create or recreate websites for all types of businesses with a charming brand personality.
+        When you start designing a banner, you must take care that your banner provides complete information about you and your service. You must remember that banner designing is of different types. It varies in not only sizes and shapes but also the content. Each banner had its purpose. So it would help if you took care that the banner you are designing must convey a particular message to the public. Banner designing is also part of your website designing. So it also helps in attracting traffic and the public to your website.
 
-        We understand that each brand needs special care and attention which is our driving force to curate different web designs tailored to your needs. We are a Delhi based website designing company and we provide our services that listen to the worldwide need for web designing. Our combination of innovative thinking ensures value to help you and your business grow and reach a wider audience.
+        It isn't easy to take care of all the areas of banner designing. So to ensure that you prepare the best banner, hire an expert. No one other than the Protech Planner can be your first choice when you match our services and rates with other service providers.
       </p>
       <div className="row gaping">
         <div className="col-lg-6 col-sm-12 col-md-6">
@@ -18,47 +18,38 @@ const GraphicDetailsContent = () => {
         <div className="col-lg-6 col-sm-12 col-md-6">
           <h3>Planning & Strategy</h3>
           <p>
-           Website Designing Services Offered Byprotechplanner.
+          How do we prepare a Graphic Design for your website?.
           </p>
           <ul>
             <li>
-              <i className="fa fa-check-square"></i>Research beyond the business
-              plan
-            </li>
+              <i className="fa fa-check-square"></i>Banner Designing
+            </li> <br/>
             <li>
-              <i className="fa fa-check-square"></i>Marketing options and rates
-            </li>
+              <i className="fa fa-check-square"></i>Versatile logo design
+            </li> <br/>
             <li>
-              <i className="fa fa-check-square"></i>The ability to turnaround
-              consulting
-            </li>
+              <i className="fa fa-check-square"></i>Flyer Designing
+            </li> <br/>
             <li>
-              <i className="fa fa-check-square"></i>Help companies into more
-              profitable
-            </li>
+              <i className="fa fa-check-square"></i>Pamplet Designing
+            </li> <br/>
             <li>
-              <i className="fa fa-check-square"></i>Customer engagement matters
+              <i className="fa fa-check-square"></i>Images and graphics
+            </li> <br/>
+            <li>
+              <i className="fa fa-check-square"></i>Animation
+            </li> <br/>
+            <li>
+              <i className="fa fa-check-square"></i>Font and message
             </li>
           </ul>
         </div>
       </div>
       <p>
-        Need something changed or is there something not quite working the way
-        you envisaged? Is your van a little old and tired and need refreshing?
-        Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry. Lorem Ipsum has been the industry's standard dummy text ever
-        since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book. It has survived not only five
-        centuries, but also the leap into electronic typesetting, remaining
-        essentially unchanged.
+      A banner is a heading or an advertisement that appears on the top of the webpage. It can appear in the form of a box column or bar. Banner designing is a complete form of advertising. And this type of advertisement, you need to publish your message for the public. Banner designing is also a form of marketing that offers a global platform for attracting potential clients. The Protech Planner is offering its extraordinary Banner designing services within your comfort zone.
       </p>
       <p>
-        Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry. Lorem Ipsum has been the industry's standard dummy text ever
-        since the 1500s, when an unknown printer took a galley of type and
-        scrambled it to make a type specimen book. It has survived not only five
-        centuries, but also the leap into electronic typesetting, remaining
-        essentially unchanged.
+      To get the best possible pamphlet at a very cheap rate with the help of a Protech Planner. We can assure you that you will get the best pamphlet designing services. Moreover, your pamphlet will act as a great marketing strategy. So if you are also trying to increase your engagement, then contact us. We will design your pamphlet matching your needs and requirements. Apart from this, we offer 100% customization in your pamphlet designing. Moreover, don't forget the Explore our website for other Digital Marketing Services.
       </p>
     </div>
   );
