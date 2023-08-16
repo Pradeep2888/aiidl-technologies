@@ -1,6 +1,6 @@
 import React from "react";
 import serviceS1 from "@/images/home_1/SEO-1.png";
-import serviceS2 from "@/images/s2.jpg";
+import serviceS2 from "@/images/home_1/seo.webp";
 const SeoDetailsContent = () => {
   return (
     <div className="serviceArea">

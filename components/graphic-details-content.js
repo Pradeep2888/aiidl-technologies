@@ -1,6 +1,6 @@
 import React from "react";
 import serviceS1 from "@/images/home_1/GD-1.png";
-import serviceS2 from "@/images/s2.jpg";
+import serviceS2 from "@/images/home_1/graphic.webp";
 const GraphicDetailsContent = () => {
   return (
     <div className="serviceArea">
