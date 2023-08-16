@@ -1466,7 +1466,7 @@ License URI:
 / 16. Featured Section
 ------------------------------------------------------*/
 .featured {
-  background: #f4f4f4;
+  background: #0034661f;
   overflow: hidden;
 }
 .features_content {
@@ -1541,6 +1541,7 @@ License URI:
 ------------------------------------------------------*/
 .testimonial_2 {
   background: url(../images/home_1/testimonialsection.png) no-repeat center center / cover;
+  padding: 60px;
 }
 .testimoniTab {
   position: relative;
@@ -1588,7 +1589,7 @@ License URI:
   right: 0;
   bottom: 0;
   content: "“";
-  background: #fe7702;
+  background: #003466;
   font-size: 30px;
   line-height: 0.8;
   padding: 11px 0;
@@ -1612,7 +1613,7 @@ License URI:
 .testimoniTab ul li a .author_detail h6 {
   font-size: 12px;
   line-height: 0.8;
-  color: #aaaaaa;
+  color: #fff;
   letter-spacing: 1.2px;
   margin: 0;
   text-transform: uppercase;
@@ -1676,6 +1677,7 @@ License URI:
 / 18. Why Choose Us Section
 ------------------------------------------------------*/
 .chooseUs {
+  background: #0034661f;
 }
 .chooseUs_title {
   margin: 0;
@@ -1741,7 +1743,7 @@ License URI:
 / 19. What We Do 2 Section
 ------------------------------------------------------*/
 .what_wedo_2 {
-  background: #f4f4f4;
+  background: #0034661f;
 }
 .single_wedo {
   position: relative;
