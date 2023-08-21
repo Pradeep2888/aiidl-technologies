@@ -30,7 +30,7 @@ const Footer = () => {
               </p>
               <p>
                 E: <a href="#">info@protechplanner.us</a> <br/>
-                E: <a href="#">info@protechplanner.com</a>
+                E: <a href="#">protechplanner@gmail.com</a>
               </p>
             </aside>
           </div>

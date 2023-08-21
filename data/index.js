@@ -638,7 +638,7 @@ export const TeamOneData = {
   posts: [
     {
       image: team01,
-      name: "Herman Fisher",
+      name: "Pavitra ",
       designation: "General Manager",
       url: "#",
       socials: [
